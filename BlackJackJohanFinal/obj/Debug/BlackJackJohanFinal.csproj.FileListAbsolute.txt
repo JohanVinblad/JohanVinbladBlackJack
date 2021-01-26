@@ -1,0 +1,7 @@
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\bin\Debug\BlackJackJohanFinal.exe.config
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\bin\Debug\BlackJackJohanFinal.exe
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\bin\Debug\BlackJackJohanFinal.pdb
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\obj\Debug\BlackJackJohanFinal.csprojAssemblyReference.cache
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\obj\Debug\BlackJackJohanFinal.csproj.CoreCompileInputs.cache
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\obj\Debug\BlackJackJohanFinal.exe
+C:\Users\Rx580\source\repos\BlackJackJohanFinal\BlackJackJohanFinal\obj\Debug\BlackJackJohanFinal.pdb
